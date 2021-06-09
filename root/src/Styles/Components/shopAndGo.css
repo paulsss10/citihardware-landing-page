@@ -1,0 +1,21 @@
+.shop-and-go_container {
+
+}
+
+h2 {
+    /* text-align: ; */
+    font-size: 2em;
+    margin-bottom: 1.5em;
+}
+
+#shop-and-go_ImgLeft {
+    height: 30vh;
+    background-image: url('https://shop.citihardware.com/balusong/modules/ps_imageslider/images/a494bd94e661240042de3c52a18998fad5aea615_ShopandGoBanner.png');
+    background-repeat: no-repeat;
+    background-position: left;
+  /* background-attachment: fixed; */
+  background-size: contain;
+  margin-bottom: 15px;
+  margin-top: 8.5em;
+}
+

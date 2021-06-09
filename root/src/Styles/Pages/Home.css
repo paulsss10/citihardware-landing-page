@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,600;0,800;1,300&display=swap');
+
+.home_container {
+    padding-top: 80px; /*50px for the height of the navbar + 37px for the offset*/
+    padding-bottom: 50px; /*50px for the height of the bottom navbar*/  
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.needs_padding {
+    padding-left: 3.5em;
+    padding-right: 3.5em;
+}

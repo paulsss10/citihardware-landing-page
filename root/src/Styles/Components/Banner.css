@@ -1,0 +1,36 @@
+@import "react-multi-carousel/lib/styles.css";
+
+.banner_container {
+   height: 50vh;
+   margin-bottom: 13em;
+}
+
+.banner_figure {
+    margin: 0;
+    height: 100%;
+    background-image: url('../../Resources/images/Lazada.png');
+    background-repeat: no-repeat;
+    background-position: top;
+  /* background-attachment: fixed; */
+  background-size: cover;
+  margin-bottom: 15px;
+}
+
+.brand_carousel {
+  padding: 0 15px;
+}
+
+.img_carousel {
+
+  width: 255px;
+}
+
+.rec-dot_active {
+  background-color: tomato !important;
+  box-shadow: 0 0 1px 3px #f44336 !important;
+}
+
+.cGKbZh:hover:enabled, .cGKbZh:focus:enabled {
+  background-color: #f44336 !important;
+    box-shadow: 0 0 2px 0 #333;
+}
